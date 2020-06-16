@@ -27,6 +27,9 @@ through all triplets of the input elements in O(n^3) time.
 8. O(2n) This time complexity often indicates that the algorithm iterates through
 all subsets of the input elements. For example, the subsets of {1,2,3} are ;,
 {1}, {2}, {3}, {1,2}, {1,3}, {2,3} and {1,2,3}.
+
+# Example
+Check the attached code file
 9. O(n!) This time complexity often indicates that the algorithm iterates through
 all permutations of the input elements. For example, the permutations of
 {1,2,3} are (1,2,3), (1,3,2), (2,1,3), (2,3,1), (3,1,2) and (3,2,1).
